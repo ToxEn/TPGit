@@ -1,20 +1,20 @@
 
 body {
-	background-color: green;
+	background-color: lightgreen;
 }
 
 h1 {
 	color: white;
 	margin: 0 auto;
-	border: 40px solid yellow;
+	border: 40px solid lightcoral;
 	border-radius: 10px;
 	padding: 20px;
 }	
 
 table tr {
-	background-color: red;
-	font-size: 5em;
-	color: purple;
+	background-color: lightcyan;
+	font-size: 2em;
+	color: black;
 }
 
 th {
