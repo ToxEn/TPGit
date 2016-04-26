@@ -1,0 +1,22 @@
+
+body {
+	background-color: green-yellow;
+}
+
+h1 {
+	color: white;
+	margin: 0 auto;
+	border: 40px solid yellow;
+	border-radius: 10px;
+	padding: 20px;
+}	
+
+table tr {
+	background-color: red;
+	font-size: 5em;
+	color: purple;
+}
+
+th {
+	color: purple;
+}
