@@ -6,7 +6,13 @@
 </head>
 <body>
 <h1>Nique ta race !</h1>
-<h2>STOP BE THAT MAD !</h2>
-<a href="index.html">Accueil <s>connard</s> sir (AGAIN STOP BE THAT MAD!) !</a>
+<a href="index.html">Accueil connard !</a>
+
+<?php
+    for($i=0;$i<50;$i++)
+    {
+        echo '<img src="banana.gif">';
+    }
+?>
 </body>
 </html>

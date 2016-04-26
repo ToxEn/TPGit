@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="app.css"/>
+    <link href="app.css"/>
     <title>Title</title>
-    </head>
+</head>
 <body>
-<h1>THIS IS MY PRO CHANGEMENT OF THIS PROJECT</h1>
 <h1>BOTABLO</h1>
 <table>
     <tr>
@@ -35,6 +34,6 @@
         <td>24</td>
     </tr>
 </table>
-<a href="page2.php">Cliquez ici !</a>
+<a href="page2.html">Cliquez ici !</a>
 </body>
 </html>
